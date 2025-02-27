@@ -1,0 +1,53 @@
+﻿  Animation.cpp
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(11,43): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(11,43): warning C4244:         with
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(11,43): warning C4244:         [
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(11,43): warning C4244:             T=int
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(11,43): warning C4244:         ]
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(12,44): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(12,44): warning C4244:         with
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(12,44): warning C4244:         [
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(12,44): warning C4244:             T=int
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Animation.cpp(12,44): warning C4244:         ]
+  BiedronkaColission.cpp
+  Bullet.cpp
+  Clock.cpp
+  Collider.cpp
+  Enemy.cpp
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Enemy.cpp(9,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Enemy.cpp(10,13): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Enemy.cpp(11,13): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  gameTile.cpp
+  gameWorld.cpp
+  Images.cpp
+  Mainmenu.cpp
+  Math.cpp
+  platform.cpp
+  Player.cpp
+  SpriteClass.cpp
+  Volume.cpp
+  Źródło.cpp
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(115,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,64): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,64): warning C4244:         with
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,64): warning C4244:         [
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,64): warning C4244:             T=float
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,64): warning C4244:         ]
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,49): warning C4244:         with
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,49): warning C4244:         [
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,49): warning C4244:             T=float
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(219,49): warning C4244:         ]
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(240,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(247,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(249,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(550,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(550,49): warning C4244:         with
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(550,49): warning C4244:         [
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(550,49): warning C4244:             T=float
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(550,49): warning C4244:         ]
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(625,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\Źródło.cpp(631,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+D:\agh\Podstawy informatyki\PROJEKT\Gierka\Gierka\gameTile.cpp(29): warning C4717: "gameTile::setupSprite": cykliczne we wszystkich ścieżkach przepływu, funkcja spowoduje przepełnienie stosu w trakcie wykonywania
+  Gierka.vcxproj -> D:\agh\Podstawy informatyki\PROJEKT\Gierka\Debug\Gierka.exe
